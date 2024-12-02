@@ -20,10 +20,9 @@ I'm a Database and Data Engineering Enthusiast with over 8 years of professional
 
 💻 What I Do:
 
-**Data Engineering**: Crafting optimized ETL pipelines, Datawarehouses, DataMarts, and OLAP cubes for insightful business intelligence.
-**Team Leadership**: Creating onboarding programs, fostering collaboration, and organizing tech talks for continuous learning.
-**BI Innovation**: Developing standard BI project templates that significantly accelerate project delivery.
-
+- **Data Engineering**: Crafting optimized ETL pipelines, Datawarehouses, DataMarts, and OLAP cubes for insightful business intelligence.
+- **Team Leadership**: Creating onboarding programs, fostering collaboration, and organizing tech talks for continuous learning.
+- **BI Innovation**: Developing standard BI project templates that significantly accelerate project delivery.
 - 🔭 I’m currently working on building solid knowledge of Python and algorithms.
 - 🌱 I’m currently learning Django and Apache Spark
 
